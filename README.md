@@ -6,8 +6,13 @@ The dataset consists of 70 000 records of patients data: 11 features and a targe
 Input features could be considered as belonging to the following 3 types:
 
 ->Objective: factual information;
+
 ->Examination: results of medical examination;
+
 ->Subjective: information given by the patient.
+
+# Features-
+
 
 | Feature Name              | Feature Type        | Data Type          | Description                                                    |
 | :------------------------ | :------------------ | :----------------- | :------------------------------------------------------------- |
@@ -28,4 +33,4 @@ Input features could be considered as belonging to the following 3 types:
 The goal of the project is to analyze Cardiovascular Disease dataset to find which factors are related to the heart diseases.
 
 # Used Tools & Libraries
-numpy, pandas, matplotlib, seaborn, sklearn, lightgbm, catboost, pytorch
+numpy, pandas, matplotlib, seaborn, sklearn
