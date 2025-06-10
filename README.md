@@ -34,3 +34,7 @@ The goal of the project is to analyze Cardiovascular Disease dataset to find whi
 
 # Used Tools & Libraries
 numpy, pandas, matplotlib, seaborn, sklearn
+
+
+# ML Models implemented- 
+Logistic regression, Decision Tree, Random Forest, KNN, SVM, Gaussian NB , Grid Search
